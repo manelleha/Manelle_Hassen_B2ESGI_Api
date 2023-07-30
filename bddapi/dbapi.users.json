@@ -1,0 +1,10 @@
+[{
+  "_id": {
+    "$oid": "64c3ab1b0675e45b5d23d7f4"
+  },
+  "events": [],
+  "email": "manelleha@gmail.com",
+  "password": "$2a$12$EDQFhZ9fsMKcHgI6dcXkFOvC5dSmfJNu8x7jsJgykJERAQqBJe2UK",
+  "name": "manelle",
+  "__v": 0
+}]
